@@ -2,8 +2,8 @@
 
 **Boost your email productivity with AI-powered replies, seamlessly integrated into Gmail!**  
 
-![Demo](https://via.placeholder.com/800x400.png?text=Smart+Email+Reply+Assistant+Demo)  
-*(Replace with a screenshot/video of the extension in action)*
+![Demo]
+<img width="916" alt="image" src="https://github.com/user-attachments/assets/922c45bb-ba6b-4787-a964-4213a157968f" />
 
 ---
 
