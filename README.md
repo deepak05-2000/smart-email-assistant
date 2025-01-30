@@ -2,7 +2,6 @@
 
 **Boost your email productivity with AI-powered replies, seamlessly integrated into Gmail!**  
 
-![Demo]
 <img width="916" alt="image" src="https://github.com/user-attachments/assets/922c45bb-ba6b-4787-a964-4213a157968f" />
 
 ---
